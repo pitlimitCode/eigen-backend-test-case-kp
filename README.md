@@ -133,3 +133,4 @@ diagonal kedua = 0 + 5 + 7 = 12
 maka hasilnya adalah 15 - 12 = 3
 ```
 
+tes
